@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- *Jordanian
- *Love Programming
- *My favorite programming languages are JavaScript and Python
- *Traviling is one of my favourite hobbies.
- *Bowling is my favourite game
+ * Jordanian
+ * Love Programming
+ * My favorite programming languages are JavaScript and Python
+ * Traviling is one of my favourite hobbies.
+ * Bowling is my favourite game
