@@ -18,4 +18,4 @@ Here are some ideas to get you started:
  * Bowling is my favourite game.
 
 ## Skills
-https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+<img src=https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E />
